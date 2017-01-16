@@ -1,0 +1,8 @@
+title: Windows-itpro-docs
+description: This is used for contributions to the Windows 10 TechNet content for IT professionals.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
